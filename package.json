@@ -1,0 +1,14 @@
+{
+  "name": "rtmpserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Nick Visalli",
+  "license": "ISC",
+  "dependencies": {
+    "node-media-server": "^1.4.12"
+  }
+}
